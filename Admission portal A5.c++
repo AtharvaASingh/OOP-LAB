@@ -28,7 +28,7 @@ class student
 
 int main()
 {
-    student s1(101,"Sahil","AIML");
+    student s1(44,"Atharva","AIML");
     s1.displayDetails();
     return 0;
 }
